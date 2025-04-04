@@ -18,3 +18,4 @@ C:\Users\user\Desktop\C#\Month 3\Week 4\Home Work\Task 6\MainApp\obj\Debug\net9.
 C:\Users\user\Desktop\C#\Month 3\Week 4\Home Work\Task 6\MainApp\obj\Debug\net9.0\MainApp.pdb
 C:\Users\user\Desktop\C#\Month 3\Week 4\Home Work\Task 6\MainApp\obj\Debug\net9.0\MainApp.genruntimeconfig.cache
 C:\Users\user\Desktop\C#\Month 3\Week 4\Home Work\Task 6\MainApp\obj\Debug\net9.0\ref\MainApp.dll
+C:\Users\user\Desktop\C#\Month 3\Week 4\Home Work\Task 6\MainApp\obj\Debug\net9.0\MainApp.sourcelink.json
